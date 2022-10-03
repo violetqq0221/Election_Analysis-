@@ -19,7 +19,10 @@ Charles Casper Stockham: 85,213 votes: 23.0%\
 Diana DeGette: 272,892 votes; 73.8%\
 Raymon Anthony Doane: 11,606 votes; 3.1%
 *Which candidate won the election, what was their vote count, and what was their percentage of the total votes?\
-Diana DeGette won the election and 272,892 vote count,the 73.8% of the total votes.
+Diana DeGette won the election and 272,892 vote count,the 73.8% of the total votes.\
+
+
+The code to analyze the data is [here](https://github.com/violetqq0221/Election_Analysis-/blob/c5da63981cbf9caa7999f3c3dd4dbdb642668b14/PyPoll_Challenge.py)
 
 ## Election Audit Summary
 This scrip can show the votes information for county and candidates. By analyzing the percentage and get the result of winning county and canadiate. This script can be extended for the preseidential election. We can analyze total votes and how many votes from each state, we can also analyze the votes from different parties(democratic and republic) for each state. 
